@@ -1,6 +1,6 @@
 # 🛒 Zepto SQL Data Analysis
 
-A end-to-end SQL project analyzing product, pricing, and inventory data from **Zepto** — India's quick-commerce grocery platform. The goal was to extract actionable business insights around discounts, stock availability, revenue estimation, and inventory distribution.
+An end-to-end SQL project analyzing product, pricing, and inventory data from **Zepto** — India's quick-commerce grocery platform. The goal was to extract actionable business insights around discounts, stock availability, revenue estimation, and inventory distribution.
 
 ---
 
